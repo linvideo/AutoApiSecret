@@ -80,5 +80,5 @@ def main():
     except:
         print("pass")
         pass
-for _ in range(1919):
+for _ in range(452):
     main()
